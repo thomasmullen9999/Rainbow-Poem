@@ -1,4 +1,4 @@
-Rainbow Poem
+Rainbow and unicorn Poem
 
 Red
 Orange
@@ -7,5 +7,6 @@ Green
 Blue
 Indigo
 Violet
+Unicorn
 
-This is a poem about rainbows
+This is a poem about rainbows and unicorna
