@@ -1,4 +1,4 @@
-Rainbow and unicorn Poem
+Rainbow and unicorn and pony Poem
 
 Red
 Orange
@@ -9,5 +9,6 @@ Indigo
 Violet
 Pink
 Unicorn
+Pony
 
-This is a poem about rainbows and unicorna
+This is a poem about rainbows and unicorns and ponies
